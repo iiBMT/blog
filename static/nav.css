@@ -1,0 +1,42 @@
+footer .nav-navs small .nav-links {
+  font-weight: 600;
+  color: var(--text-color);
+}
+footer .nav-navs small .nav-links:hover, 
+.navbar .nav-links:hover {
+  color: var(--primary-color);
+  background: none;
+}
+
+.navbar .nav-links {
+  font-weight: 600;
+}
+
+.credits a{
+  font-weight: 600;
+  color: var(--text-color);
+}
+.credits a:not(.no-hover-padding):hover::before,
+.credits a:hover {
+  background: none;
+  color: var(--primary-color);
+}
+
+header .navbar .nav-title .home-title:hover {
+  /*color: var(--primary-color);*/
+  border-radius: 24px;
+}
+
+header .navbar .nav-title .home-title {
+  font-weight: 600;
+  /*color: var(--text-color);*/
+  padding: 8px 16px;
+}
+
+header .navbar .nav-title .home-title:hover::before {
+  display: none; 
+}
+
+.social {
+  border-radius: 50%;
+}
