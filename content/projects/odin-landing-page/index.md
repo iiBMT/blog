@@ -7,6 +7,8 @@ weight = 1
 local_image = "projects/odin-landing-page/preview.jpg"
 +++
 
+
+
 This project started as a standard assignment from [The Odin Project](https://www.theodinproject.com/) Foundations curriculum to practice HTML and CSS Flexbox. The goal was to recreate a specific landing page design.
 
 Instead of making a generic tech startup page, I decided to build a fully functional, responsive landing page for a fictional, deeply unethical home insurance company called **SureLife**. 
@@ -22,7 +24,7 @@ The challenge here was the contrast: making the design look clean, trustworthy, 
 Try it yourself below. (Note: clicking the buttons will absolutely Rickroll you).
 
 <iframe 
-  src="https://odin-landingpage-ibmt.pages.dev" 
+  src="https://odin-landingpage-ibmt.pages.dev/" 
   width="100%" 
   height="700px" 
   style="border: 2px solid var(--border-color); border-radius: 8px; background-color: #fff; margin-top: 1rem;" 
