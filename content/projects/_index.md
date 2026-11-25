@@ -1,4 +1,5 @@
 +++
 title = "projects"
-sort_by = "date"
+sort_by = "weight"
+template = "cards.html"
 +++
