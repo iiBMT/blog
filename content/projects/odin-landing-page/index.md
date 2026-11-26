@@ -15,7 +15,7 @@ Instead of making a generic tech startup page, I decided to build a fully functi
 
 The challenge here was the contrast: making the design look clean, trustworthy, and corporate, while the copy aggressively betrays the user at every turn. The links take you to a Rickroll, claims are processed in "6 - 8 business decades," and the footer reminds you that they own all your assets. It’s a fun way to practice front-end layout while poking fun at corporate greed.
 
-**Tech used:** HTML5, CSS3 (Flexbox), Google Fonts (Roboto).
+**Tech used:** HTML 5, CSS 3 (Flexbox), Google Fonts (Roboto).
 
 ---
 
@@ -23,13 +23,13 @@ The challenge here was the contrast: making the design look clean, trustworthy, 
 
 Try it yourself below. (Note: clicking the buttons will absolutely Rickroll you).
 
-<iframe 
-  src="https://odin-landingpage-ibmt.pages.dev/" 
-  width="100%" 
-  height="700px" 
-  style="border: 2px solid var(--border-color); border-radius: 8px; background-color: #fff; margin-top: 1rem;" 
-  title="SureLife Landing Page Demo">
-</iframe>
+<div style="width: 100%; overflow: hidden; border: 2px solid var(--border-color); border-radius: 8px; background: #fff; margin-top: 1rem; height: 600px; position: relative;">
+  <iframe 
+    src="https://odin-landingpage-ibmt.pages.dev" 
+    style="width: 200%; height: 200%; transform: scale(0.5); transform-origin: top left; border: none;" 
+    title="SureLife Landing Page Demo">
+  </iframe>
+</div>
 
 ---
 
