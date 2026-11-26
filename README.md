@@ -117,8 +117,8 @@ The settings you're most likely to want:
 ```toml
 favicon_emoji = "🍋‍🟩"                          # the little icon in the browser tab
 stylesheets = ["custom.css"]                  # your CSS overrides
-socials = [...]                               # footer social links
-footer_menu = [...]                           # about / privacy / sitemap links
+socials = ["..."]                               # footer social links
+footer_menu = ["..."]                           # about / privacy / sitemap links
 ```
 
 ---
