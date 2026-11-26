@@ -21,12 +21,12 @@ The challenge here was the contrast: making the design look clean, trustworthy, 
 
 ### Interactive Live View
 
-Try it yourself below. (Note: clicking the buttons will absolutely Rickroll you).
+> **Note:** This project was built strictly for desktop screens, as per the assignment requirements. The preview below is scaled down to fit this page. For the best experience, [open the full live view in a new tab](https://odin-landingpage-ibmt.pages.dev).
 
-<div style="width: 100%; overflow: hidden; border: 2px solid var(--border-color); border-radius: 8px; background: #fff; margin-top: 1rem; height: 600px; position: relative;">
+<div style="width: 100%; height: 650px; overflow: hidden; position: relative; border: 2px solid var(--border-color); border-radius: 8px; background: #fff; margin-top: 1rem;">
   <iframe 
     src="https://odin-landingpage-ibmt.pages.dev" 
-    style="width: 200%; height: 200%; transform: scale(0.5); transform-origin: top left; border: none;" 
+    style="width: 142.8%; height: 142.8%; transform: scale(0.7); transform-origin: top left; border: none;" 
     title="SureLife Landing Page Demo">
   </iframe>
 </div>
